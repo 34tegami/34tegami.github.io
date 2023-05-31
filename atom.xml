@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://34tegami.github.io/</id>
+    <title>海峡邮差</title>
+    <updated>2023-05-31T05:37:29.560Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://34tegami.github.io/"/>
+    <link rel="self" href="https://34tegami.github.io/atom.xml"/>
+    <subtitle>The tide is full, the moon lies fair</subtitle>
+    <logo>https://34tegami.github.io/images/avatar.png</logo>
+    <icon>https://34tegami.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 海峡邮差</rights>
+    <entry>
+        <title type="html"><![CDATA[2023.5.1-31|五月的天空泼满青釉]]></title>
+        <id>https://34tegami.github.io/post/20230531/</id>
+        <link href="https://34tegami.github.io/post/20230531/">
+        </link>
+        <updated>2023-05-31T05:35:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食用说明]]></title>
+        <id>https://34tegami.github.io/post/must/</id>
+        <link href="https://34tegami.github.io/post/must/">
+        </link>
+        <updated>2023-02-16T07:14:06.000Z</updated>
+    </entry>
+</feed>
